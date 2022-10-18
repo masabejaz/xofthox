@@ -36,7 +36,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               SizedBox(
                 width: 300,
                 child: Text(
-                  'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+                  'It is a long app established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
                   textAlign: TextAlign.center,
                 ),
               ),

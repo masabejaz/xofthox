@@ -37,7 +37,7 @@ class _SignInScreenState extends State<SignInScreen> {
                     'assets/images/logos/google-logo.png',
                     width: 28,
                   ),
-                  const Text('Sign in with Google'),
+                  const Text('Sign in with Google account'),
                 ],
               ),
             ),
