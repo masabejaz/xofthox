@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "777975396721",
+    "project_id": "xofthox-45d52",
+    "storage_bucket": "xofthox-45d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777975396721:android:5877cf029e254e618aded0",
+        "android_client_info": {
+          "package_name": "com.xofthox.xofthox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777975396721-2cpua267hopl64soelm1227ajk6evimq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLpkmyJLmSIGtoShEJT9ft3oU-J8jx38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777975396721-2cpua267hopl64soelm1227ajk6evimq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777975396721-r25s4l3loeu0ao8bus2ignhnsk9ufss0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xofthox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
